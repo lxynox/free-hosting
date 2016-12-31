@@ -11,4 +11,8 @@ simple tutorial of free hosting using github <i class="fa fa-github" aria-hidden
 6. <kbd>cmd</kbd>+f and type in `None`, change it to `master branch` and hit `save` button ✅
 7. Surprisingly, all set! Your site is published at `https://<your_github_username>.github.io/<this_repo_name>/` 🌐
 
-Additionally, you may not like the doman name, just redirect/rebind your purchased one to your just published link.
+Additionally, you may not happy with the domain name, just redirect/rebind your purchased one to your just published url.
+
+### reference
+
+this MY site using github free hosting service [△](https://lxynox.github.io/) 
