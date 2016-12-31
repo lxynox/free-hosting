@@ -15,4 +15,4 @@ Additionally, you may not happy with the domain name, just redirect/rebind your 
 
 ### reference
 
-Here is MY site using github free hosting service [△](https://lxynox.github.io/) 
+[Click here](https://lxynox.github.io/) is MY site using github free hosting service [△]
